@@ -1,4 +1,6 @@
-# ICS4U0
-ICS Stuff
+# ICS4U0-Final
+ICS Final Project 2015
 
-Stop going through this nothing to see.
+Introduction to Compute Science 4U0 Final Project by Mandeep Sran (me) and partner Navaneeth Mulolli Panikan. 
+
+Basic Pong game with 2 player interaction.
